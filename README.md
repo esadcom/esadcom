@@ -100,3 +100,4 @@ Yapay zeka ile ürün kurmayı ve satmayı anlatıyorum: [youtube.com/@esadcom](
 </p>
 
 <p align="center"><sub>📍 Maastricht, NL · <em>Kur, test et, büyüt. Tekrarla.</em></sub></p>
+
