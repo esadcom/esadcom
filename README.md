@@ -2,10 +2,10 @@
 
 # Esad Kılıç
 
-**Build. Sell. Repeat.**
+**Sıfırdan uygulamalar kurup geliştiriyorum.**
 
-Founder of [ARspar](https://www.crunchbase.com/organization/arspar) — scaled to **100K+ users**, acquired by **Floorplanner** (2024)
-Co-founder of [Goatstarter](https://www.goatstarter.com) — accelerator for AI-native founders
+[ARspar](https://www.crunchbase.com/organization/arspar)'ı kurdum — **100K+ kullanıcıya** ulaştı, **Floorplanner** satın aldı (2024)
+[Goatstarter](https://www.goatstarter.com)'ın kurucu ortağıyım — AI-native kurucular için hızlandırma programı
 
 [![Website](https://img.shields.io/badge/esadkilic.com-d4a054?style=for-the-badge&logo=safari&logoColor=black)](https://www.esadkilic.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@esadcom)
@@ -17,18 +17,18 @@ Co-founder of [Goatstarter](https://www.goatstarter.com) — accelerator for AI-
 
 ---
 
-## 🏗 What I'm building
+## 🏗 Ne kuruyorum
 
-| Venture | What it is | Status |
+| Girişim | Ne yapıyor | Durum |
 |---|---|---|
-| **[Goatstarter](https://www.goatstarter.com)** | Accelerator for AI-native founders — 1,300+ participants, 200+ shipped projects | 🟢 Active |
-| **Reviwo** | AI review management — every platform, one dashboard | 🟢 Active |
-| **PrototipAL** | AI content platform — web, iOS & API | 🟢 Active |
-| **[Maiony](https://www.maiony.com)** | Operations automation agency | 🟢 Active |
-| **ARspar** | AI product visualization — 100K+ users, 70+ enterprise clients (Lamborghini, Red Bull) | ✅ Acquired by Floorplanner |
-| **ARtonar** | 3D platform — €0 → €1M revenue in 11 months | ⚫ Closed |
+| **[Goatstarter](https://www.goatstarter.com)** | AI-native kurucular için hızlandırma programı — 1.300+ katılımcı, 200+ proje | 🟢 Aktif |
+| **Reviwo** | AI destekli yorum yönetimi — tüm platformlar, tek panel | 🟢 Aktif |
+| **PrototipAL** | AI içerik platformu — web, iOS ve API | 🟢 Aktif |
+| **[Maiony](https://www.maiony.com)** | Operasyon otomasyon ajansı | 🟢 Aktif |
+| **ARspar** | AI ürün görselleştirme — 100K+ kullanıcı, 70+ kurumsal müşteri (Lamborghini, Red Bull) | ✅ Floorplanner satın aldı |
+| **ARtonar** | 3D platform — 11 ayda €0 → €1M ciro | ⚫ Kapalı |
 
-## 📰 Press
+## 📰 Basında
 
 **[Cumhuriyet](https://www.cumhuriyet.com.tr/is-dunyasi/goatstarter-ve-doa-teknik-olmayan-kuruculari-yatirim-surecine-hazirliyor-2522702)** · **[Silicon Canals](https://siliconcanals.com/rotterdam-floorplanner-buys-arspar/)** · **[eGirişim](https://egirisim.com/2024/05/17/yerli-girisim-arspar-hollanda-merkezli-floorplanner-tarafindan-satin-alindi/)** · **[Haberler.com](https://www.haberler.com/haberler/goatstarter-ve-doa-exit-deneyimini-kurucu-20078266-haberi/)**
 
@@ -36,9 +36,9 @@ Co-founder of [Goatstarter](https://www.goatstarter.com) — accelerator for AI-
 
 ## 🎥 YouTube
 
-I teach founders how to build and ship products with AI — in Turkish, to 🇹🇷 founders everywhere.
+Yapay zeka ile ürün kurmayı ve satmayı anlatıyorum.
 
-**[▶ Claude Code Full Course (1.5h)](https://youtube.com/watch?v=wjvUIPylcy0)** · **[▶ Building a startup with AI — office vlog](https://youtube.com/watch?v=GlCmlKLX2g0)** · **[▶ Zero to sellable app](https://youtube.com/watch?v=2nOu0FFhAAg)**
+**[▶ Claude Code Full Kurs (1.5 saat)](https://youtube.com/watch?v=wjvUIPylcy0)** · **[▶ Bir Gün Ofiste: Yapay Zeka ile Girişim Kuruyoruz](https://youtube.com/watch?v=GlCmlKLX2g0)** · **[▶ Sıfırdan Satışa Hazır Uygulama Yap](https://youtube.com/watch?v=2nOu0FFhAAg)**
 
 ---
 
